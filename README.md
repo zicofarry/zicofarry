@@ -1,24 +1,24 @@
-<h1 align="center">Hi there! 👋 I'm 'Azmi</h1>
+<h1 align="center">Hi there! 👋 I'm zicofarry</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zicofarry&style=plastic" alt="Profile Views">
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a <strong>AI Engineer</strong> with a passion for <strong>Machine Learning</strong>. <br>
-  Currently, I'm an Informatics Engineering Sophomore at <strong>Universitas Pendidikan Indonesia/strong>. Now I'm building agentic AI-based system!
+  Welcome to my GitHub profile! I'm a <strong>Compiler Engineer</strong> with a passion for <strong>Low Level Programming</strong>. <br>
+  Currently, I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia/strong>. Now I'm building agentic AI-based system!
 </p>
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
-<!-- </p>
-<p align="center">
 </p>
 <p align="center"> -->
+  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
 </p>
+<!-- <!-- </p>
+<p align="center"> -->
 
 ### Langs 
 <p align="center">
