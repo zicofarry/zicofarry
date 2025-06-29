@@ -47,7 +47,7 @@
 <p align="center">
   <a href="mailto:mhmmdzmslm36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-azmi-salam-2b9a162b6"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
-  <a href="https://x.com/zicofarry"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white" /></a>
+  <a href="https://x.com/zicofarry"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://leetcode.com/zicofarry/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
