@@ -14,6 +14,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+</p>
 
 ### Langs 
 <p align="center">
@@ -40,7 +46,7 @@
 ### 📫 Social
 <p align="center">
   <a href="mailto:mhmmdzmslm36@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/zicofarry"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-azmi-salam-2b9a162b6"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://x.com/zicofarry"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white" /></a>
   <a href="https://leetcode.com/zicofarry/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=black" alt="LeetCode">
