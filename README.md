@@ -6,7 +6,7 @@
 
 <p align="center">
   Welcome to my GitHub profile! I'm a <strong>Compiler Engineer</strong> with a passion for <strong>Low Level Programming</strong>. <br>
-  Currently, I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia</strong>.
+  I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia</strong>.
 </p>
 
 ---
