@@ -13,27 +13,22 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
+<!-- </p>
+<p align="center">
+</p>
+<p align="center"> -->
 </p>
 
 ### Langs 
 <p align="center">
-  <img src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" />
-
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC++-00599C?style=plastic&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Social
