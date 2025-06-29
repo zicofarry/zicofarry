@@ -11,16 +11,16 @@
 
 ---
 
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center"> -->
-  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight" alt="GitHub Streak" />
 </p>
-<!-- <!-- </p>
-<p align="center"> -->
 
-### Langs 
+
+## Langs 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
-### Social
+## Social
 <p align="center">
   <a href="mailto:mhmmdzmslm36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-azmi-salam-2b9a162b6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
