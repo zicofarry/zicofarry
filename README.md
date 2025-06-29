@@ -44,3 +44,7 @@
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/zicofarry/zicofarry/output/snake.svg" alt="Snake animation" />
+
+###
