@@ -45,6 +45,7 @@
   </a>
 </p>
 
+## Contribution
 <img src="https://raw.githubusercontent.com/zicofarry/zicofarry/output/snake.svg" alt="Snake animation" />
 
 ###
