@@ -6,7 +6,7 @@
 
 <p align="center">
   Welcome to my GitHub profile! I'm a <strong>Compiler Engineer</strong> with a passion for <strong>Low Level Programming</strong>. <br>
-  Currently, I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia/strong>. Now I'm building agentic AI-based system!
+  Currently, I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia</strong>.
 </p>
 
 ---
@@ -14,8 +14,8 @@
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
+<!-- </p>
+<p align="center"> -->
   <img src="https://streak-stats.demolab.com/?user=zicofarry&theme=tokyonight)](https://git.io/streak-stats" alt="GitHub Streak" />
 </p>
 
