@@ -16,8 +16,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center"> 
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /></a> -->
-  <img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /></a>
+<!--   <img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
 
