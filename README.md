@@ -17,6 +17,7 @@
 </p>
 <p align="center"> 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /></a>
 <!--   <img src="https://streak-stats.demolab.com?user=zicofarry&theme=tokyonight" alt="GitHub Streak" /> -->
 </p>
 
