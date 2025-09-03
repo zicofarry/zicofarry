@@ -37,7 +37,7 @@
 <p align="center">
 <!--   <a href="mailto:mhmmdzmslm36@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
   <a href="https://www.linkedin.com/in/zicofarry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@zicofarry"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<!--   <a href="https://medium.com/@zicofarry"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
   <a href="https://open.spotify.com/user/enek0cerjmqjtkv9lc8chpr42?si=dcd16d513f86446a"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://soundcloud.com/muhammad-azmi-salam"><img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
   <!-- <a href="https://instagram.com/mhmmdzmslm_36"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
