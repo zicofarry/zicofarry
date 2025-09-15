@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a <strong>CTF Player</strong> with a passion for <strong>Cyber Security</strong> and <strong>Cryptography</strong>. <br>
+  Welcome to my GtHub profile! I'm a <strong>CTF Player</strong> with a passion for <strong>Cyber Security</strong> and <strong>Cryptography</strong>. <br>
   I'm an Undergraduate Student of Computer Science at <strong>Universitas Pendidikan Indonesia</strong>.
 </p>
 
