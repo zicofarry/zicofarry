@@ -11,7 +11,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stat
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zicofarry&layout=compact&hide=jupyter%20notebook&langs_count=10&theme=tokyonight" alt="Top Languages" />
 </p>
