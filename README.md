@@ -1,4 +1,4 @@
-<h1 align="center">Hi thre! 👋 I'm zicofarry</h1>
+<h1 align="center">Hi there! 👋 I'm zicofarry</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zicofarry&style=plastic" alt="Profile Views">
