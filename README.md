@@ -21,7 +21,7 @@
 </p>
 
 
-## Langs 
+## Langs & Tools
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/iframe/cc2cf7caa607"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/certificates/iframe/cc2cf7caa607"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
@@ -40,6 +40,9 @@
   <br>
   <a href="https://www.hackerrank.com/certificates/iframe/40a329fe72e1"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/hostinger-%23673DE6.svg?style=for-the-badge&logo=hostinger&logoColor=white" />
 </p>
 
 ## Social
